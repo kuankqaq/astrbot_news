@@ -11,7 +11,6 @@ from astrbot.api.star import Context, Star, register
     author="kuank",
     desc="一个在用户输入'/新闻'时，提供每日新闻的插件",
     version="1.0.1",
-    repo_url=""
 )
 class NewsPlugin(Star):
     """
